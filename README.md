@@ -1,6 +1,4 @@
-# Lab 1
-
-## Mobile Application - Flutter Project
+# Mobile Application - Flutter Project
 
 ### Project Description
 This application was created as part of mobile application development exercises. It implements a login and registration screen following the guidelines provided in the instructions. The project was developed using Flutter and the Dart programming language.
@@ -51,6 +49,3 @@ If this is your first Flutter project, here are some useful resources to help yo
 - [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
 For further assistance, refer to the [official Flutter documentation](https://docs.flutter.dev/), which offers tutorials, examples, and a full API reference.
-
----
-Feel free to update the repository link and customize the document as needed!
