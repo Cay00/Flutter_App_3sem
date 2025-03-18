@@ -1,5 +1,33 @@
 # lab1
 
+Aplikacja mobilna - Projekt Flutter
+
+Opis projektu
+
+Aplikacja została stworzona w ramach ćwiczeń z programowania aplikacji mobilnych. Implementuje ekran logowania oraz rejestracji zgodnie z wytycznymi przedstawionymi w instrukcji. Projekt został zrealizowany przy użyciu technologii Flutter oraz języka Dart.
+
+Funkcjonalności
+
+Ekran logowania z walidacją pól (e-mail, hasło)
+
+Ekran rejestracji
+
+Nawigacja pomiędzy ekranami
+
+Obsługa przycisków oraz elementów interaktywnych (np. checkbox, link do odzyskiwania hasła)
+
+Obsługa komunikatów o błędach
+
+Wyświetlanie grafik SVG
+
+Technologie
+
+Flutter - framework do tworzenia aplikacji mobilnych
+
+Dart - język programowania używany w Flutter
+
+flutter_svg - biblioteka do wyświetlania plików SVG
+
 A new Flutter project.
 
 ## Getting Started
